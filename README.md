@@ -35,7 +35,7 @@ Credit score and income were the most influential factors in predicting loan def
 
 Built a production-style ML pipeline for credit risk analysis suitable for financial institutions.
 
-###Libraries used
+### Libraries used:
 pandas
 numpy
 scikit-learn
