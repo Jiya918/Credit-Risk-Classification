@@ -35,7 +35,7 @@ Credit score and income were the most influential factors in predicting loan def
 
 Built a production-style ML pipeline for credit risk analysis suitable for financial institutions.
 
-
+###Libraries used
 pandas
 numpy
 scikit-learn
@@ -43,3 +43,12 @@ xgboost
 imbalanced-learn
 matplotlib
 seaborn
+
+### Key Skills Used:
+- **Data Cleaning:** Handled missing values and outliers.
+- **Handling Imbalance:** Used SMOTE to balance the dataset.
+- **Algorithms:** Compared Random Forest and XGBoost.
+- **Business Focus:** Optimized for Recall to catch high-risk loans.
+
+### How to use:
+Open the `notebook.ipynb` file to see the full analysis and visualizations.
